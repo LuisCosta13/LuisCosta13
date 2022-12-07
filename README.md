@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @LuisCosta13
 -  I'm a Technology and Programming of Information Systems
--  I'm learning full-stack development but already have skills in JAVA, HTML, CSS, SQL Databases,
+
+-  I'm studiyng to become a full-stack developer.
+
+-  Skills in JAVA, PHP, JAVASCRIPT, REACT NATIVE, HTML, CSS/SCSS,
+
 -  I'm always looking to improve and become a better programmer.
+
 -  To contact me send a message to luisassuntos13@gmail.com 📫 
 
 <!---
