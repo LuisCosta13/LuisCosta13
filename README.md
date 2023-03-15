@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisCosta13
--  I'm a Technology and Programming of Information Systems
+-  Got a Bachelor Degree in Information system technology and programming.
 
 -  I'm studiyng to become a full-stack developer.
 
